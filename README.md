@@ -151,14 +151,15 @@ Performs Wilcoxon rank-sum tests and Spearman correlation tests.
 
 ---
 
+
+
 ## Citation
 
 If you use this code or data, please cite:
 
 Erskine, H. (2025). Virtual screening of an orexin receptor ligand 
 library identifies lemborexant analogs with favorable CNS drug-likeness 
-and dual-receptor binding profiles. [Preprint]. bioRxiv.
-
+and dual-receptor binding profiles. [Manuscript in preparation].
 ---
 
 ## License
